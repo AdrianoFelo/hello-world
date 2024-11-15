@@ -2,6 +2,6 @@
 
 Hello, world!
 
-My name is Adrian. I am a code newbie, and I am always learning, practicing or creating something. 
+My name is Adrian. I'm a coding newbie. I am always learning something new! 
 
-I love languages, technology, music, coffee, travelling, foreign films, books and meeting new people.
+I love languages, technology, music, coffee, travelling, foreign films, books, and meeting new people.
